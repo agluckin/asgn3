@@ -1,6 +1,11 @@
 h1{
-    font-family: sans-serif;
-    font-weight: normal;
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 4px 2px rgb(129, 129, 129)
+    
 }
 
 
@@ -11,19 +16,45 @@ images{
 }
 
 h2{
-    font-family: sans-serif;
-    font-weight:normal;
+    font-family: 'Poiret One', sans-serif;
+    font-weight:medium;
 
 }
 
 h3{
-    font-family: sans-serif;
-    font-weight:normal;
+    font-family: 'Poiret One', sans-serif;
+    font-weight:medium;
 }
 
 p{
-    font-family:sans-serif;
+    font-family: avenir, sans-serif;
 }
 body{
+    text-align: center;
+}
+.content-wrap {
+    width: 900px;
+    margin: 0 auto;
+}
+header {
+    background-color: rgb(104, 124, 109);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+body {
+    margin: 0;
+}
+a {
+    font-family: avenir, sans-serif;
+    text-decoration-line: none;
+    color:rgb(121, 94, 53)
+}
+footer {
+    background-color: silver;
+    padding-bottom: 20px;
+    padding-top: 3px;
+}
+ul {
+    list-style-type: none;
     text-align: center;
 }
